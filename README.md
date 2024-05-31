@@ -16,7 +16,7 @@ Benvenuto nel mio indice dei progetti. Qui puoi trovare una lista organizzata de
 
 ## Progetti con JAVA
 
-- [ML Project 1](https://github.com/carmen-romano/u4-d4-OOP)
+- [Player Multimediale](https://github.com/carmen-romano/u4-w1-player-multimediale-java)
 
 ## Altri Progetti
 
