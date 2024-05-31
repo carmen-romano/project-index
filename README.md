@@ -11,12 +11,14 @@ Benvenuto nel mio indice dei progetti. Qui puoi trovare una lista organizzata de
 ## Progetti con JS VANILLA
 
 - [Spotify Clone](https://github.com/carmen-romano/spotifyClone)
-- 
+  
 - [Quiz App](https://github.com/AlessioVulpinari/Group_6_Epicode)
 
 ## Progetti con JAVA
 
 - [Player Multimediale](https://github.com/carmen-romano/u4-w1-player-multimediale-java)
+- 
+- [Catalogo Bibliografico](https://github.com/carmen-romano/u4-w2-d5-project)
 
 ## Altri Progetti
 
